@@ -1,0 +1,8 @@
+
+*/.exercism
+
+*/**/*.out
+
+*/test/
+
+
